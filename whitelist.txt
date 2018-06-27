@@ -35,7 +35,6 @@ github.io
 tomshardware.co.uk
 google.com
 api.github.com
-pornhub.com
 g2a.com
 c.apple.com
 redirector.googlevideo.com
@@ -85,7 +84,6 @@ ikea.co.uk
 dvice.dk
 mirror1.malwaredomains.com
 xvideos.com
-pornhub.com
 adaway.org
 adblock.mahakala.is
 hosts-file.net
