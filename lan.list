@@ -1,0 +1,10 @@
+10.0.0.1	router usg60w
+10.0.0.2	sw01
+10.0.0.3	sw02
+10.0.0.8        alpha
+10.0.0.9        terra
+10.0.0.10	pihole
+10.0.0.11	octopi
+10.0.0.12       homeassistant hassbian hassio
+10.0.0.23	cam01
+10.0.0.33	cam02
